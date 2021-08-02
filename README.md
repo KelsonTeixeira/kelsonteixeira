@@ -1,7 +1,6 @@
 ### E aí! Eu sou o Kelson Teixeira 👋
 
 - 🔭 Hoje estou trabalhando com Front-end e Wordpress
-- 🧑🏻‍💻 Sou Desenvolvedor Web na [https://alpinaweb.com.br](Alpina Digital)
 - 🧑🏻‍💻 Estudando ReactJS e NodeJS
 - 😄 Meu site é esse: [https://kelsonteixeira.com](kelsonteixeira.com)
 ##
