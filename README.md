@@ -34,4 +34,3 @@
   
   ##
   
-  <iframe src="https://kelsonteixeira.com/apps/snake/"></iframe>
