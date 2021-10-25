@@ -1,6 +1,6 @@
 ### E aí! Eu sou o Kelson Teixeira 👋
 
-- 🔭 Hoje estou trabalhando com Front-end e Wordpress
+- 🔭 Atualmente estou trabalhando com Front-end e Backend.
 - 🧑🏻‍💻 Estudando ReactJS e NodeJS
 - 😄 Meu site é esse: [https://kelsonteixeira.com](kelsonteixeira.com)
 ##
