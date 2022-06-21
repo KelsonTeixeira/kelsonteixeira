@@ -1,7 +1,7 @@
 ### E aí! Eu sou o Kelson Teixeira 👋
 
-- 🔭 Atualmente estou trabalhando com Front-end e Backend.
-- 🧑🏻‍💻 Estudando ReactJS e NodeJS
+- 🔭 Atualmente estou trabalhando com NodeJS.
+- 🧑🏻‍💻 Estudando as Stacks do JS.
 - 😄 Meu site é esse: <a href="https://kelsonteixeira.com" target="_blank">kelsonteixeira.com</a>
 ##
 <div>
