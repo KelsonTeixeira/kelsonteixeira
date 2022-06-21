@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando com Front-end e Backend.
 - 🧑🏻‍💻 Estudando ReactJS e NodeJS
-- 😄 Meu site é esse: [kelsonteixeira.com](https://kelsonteixeira.com)
+- 😄 Meu site é esse: <a href="https://kelsonteixeira.com" target="_blank">kelsonteixeira.com</a>
 ##
 <div>
   <a href="https://github.com/kelsonteixeira">
