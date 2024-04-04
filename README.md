@@ -1,7 +1,7 @@
 ### E aí! Eu sou o Kelson Teixeira 👋
 
 - 🔭 Atualmente sou Desenvolvedor Backend.
-- Pós-graduado em Desenvolvimento de programas.
+- 🎓 Pós-graduado em Desenvolvimento de programas.
 - 🧑🏻‍💻 Estudando as Stacks do JS.
 - 😄 Meu site é esse: <a href="https://kelsonteixeira.com" target="_blank">kelsonteixeira.com</a>
 ##
