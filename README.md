@@ -1,7 +1,8 @@
-Hey there! I'm Kelson Teixeira 👋
-🔭 Currently, I'm a Backend Developer.
-🎓 Postgraduate in Software Development.
-🧑🏻‍💻 Studying JS stacks.
+### Hey there! I'm Kelson Teixeira 👋
+
+- 🔭 Currently, I'm a Backend Developer.
+- 🎓 Postgraduate in Software Development.
+- 🧑🏻‍💻 Studying JS stacks.
 
 ##
 <div>
