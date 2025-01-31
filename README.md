@@ -1,9 +1,8 @@
-### E aí! Eu sou o Kelson Teixeira 👋
+Hey there! I'm Kelson Teixeira 👋
+🔭 Currently, I'm a Backend Developer.
+🎓 Postgraduate in Software Development.
+🧑🏻‍💻 Studying JS stacks.
 
-- 🔭 Atualmente sou Desenvolvedor Backend.
-- 🎓 Pós-graduado em Desenvolvimento de programas.
-- 🧑🏻‍💻 Estudando as Stacks do JS.
-- 😄 Meu site é esse: <a href="https://kelsonteixeira.com" target="_blank">kelsonteixeira.com</a>
 ##
 <div>
   <a href="https://github.com/kelsonteixeira">
