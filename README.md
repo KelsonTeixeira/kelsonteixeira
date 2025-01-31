@@ -1,6 +1,6 @@
 ### Hey there! I'm Kelson Teixeira 👋
 
-- 🔭 Currently, I'm a Backend Developer.
+- 🔭 Currently, I'm a Senior Backend Developer.
 - 🎓 Postgraduate in Software Development.
 - 🧑🏻‍💻 Studying JS stacks.
 
